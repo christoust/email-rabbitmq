@@ -1,13 +1,13 @@
-package com.ust.emailrabbbitmq;
+package com.UST.RabbitmqEmailNotification;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EmailRabbbitmqApplication {
+public class RabbitmqEmailNotificationApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EmailRabbbitmqApplication.class, args);
+		SpringApplication.run(RabbitmqEmailNotificationApplication.class, args);
 	}
 
 }
